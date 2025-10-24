@@ -290,4 +290,4 @@ yolo_study/
 
 ---
 
-**Made with ❤️ by AI Collaboration (Claude Sonnet + Claude Opus)**
+**Made with ❤️ by AI Collaboration (Claude Sonnet + Claude Opus) and Aebonlee**
